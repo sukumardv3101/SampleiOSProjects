@@ -21,6 +21,10 @@
     DataBase *db = [[DataBase alloc]init];
     [ db  addDatamanager];
 
+    
+    //adesedhdgjhn fuck
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 - (IBAction)saveData:(id)sender {
